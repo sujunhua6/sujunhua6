@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sujunhua6
+- 👋 Hi, I’m @sujunhua6 from South China Agricultural University
 - 👀 I’m interested in math
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
